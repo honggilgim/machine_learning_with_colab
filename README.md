@@ -2,6 +2,8 @@
 
 프로젝트 개요 : 전복 나이 예측 프로세스
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 도구 : 구글 코랩
 
 기간 : 2022.03.02 ~ 2022.06.06
@@ -11,6 +13,9 @@
 여러가지 인자들을 받고, 그것들을 활용하여 전복의 나이를 예측하기.
 
 
+## 프로젝트 결과
+
+![image](https://user-images.githubusercontent.com/48556879/173090081-58c7c08f-84d0-4f63-9c71-0c08b52418f1.png)
 
 
 ## python_test_with_cola
